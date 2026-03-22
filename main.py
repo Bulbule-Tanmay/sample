@@ -126,20 +126,4 @@ else:
     final_output = ask_ai(system_prompt_no)
     print(final_output)
 
-# google_news = get_google_news(prompt)
-
-# user_prompt = f"""
-# USER CLAIM:
-# {prompt}
-
-# NEWS HEADLINES:
-# {json.dumps(google_news, indent=2)}
-# """
-
-
-
-# print("\nAI OUTPUT:\n")
-
-# final_output = ask_ai(prompt)
-
-# print(final_output)
+print("done")

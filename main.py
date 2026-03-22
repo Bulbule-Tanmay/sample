@@ -1,4 +1,5 @@
 API_KEY = "ADD OPENROUTERF API"
+API = "open"
 
 import requests
 import feedparser

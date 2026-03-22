@@ -1,4 +1,4 @@
-API_KEY = "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"
+API_KEY = "ADD OPENROUTERF API"
 
 import requests
 import feedparser
